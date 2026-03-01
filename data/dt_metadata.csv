@@ -1,0 +1,5 @@
+dt_id,feeder_id,kvA,archetype,lt_length_km,ab_cable_pct,p_no_load_kw,alpha_cu_loss,pf_assumed
+DT_U_250_01,FDR_U1,250,urban_AB,0.8,100,0.45,0.015,0.93
+DT_U_250_02,FDR_U1,250,urban_AB,1.0,80,0.45,0.016,0.92
+DT_P_200_03,FDR_P1,200,peri_urban,1.4,50,0.38,0.018,0.9
+DT_R_160_04,FDR_R1,160,rural_bare,2.6,10,0.3,0.022,0.88
